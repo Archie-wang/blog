@@ -1,2 +1,2 @@
 # blog
-blog中的 
+blog中的主要文件
